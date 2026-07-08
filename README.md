@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Sk Gowsya👋
 
-<!--
-**Skgowsya/skgowsya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (3rd Year)
+💻 Aspiring Backend & Full Stack Developer
 
-Here are some ideas to get you started:
+## Skills
+-Java
+-C
+-HTML
+-CSS
+-Git
+-JavaScript
+-GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+-AI Hairstyle Advisor
+-Java DSA Practice
+
+## Currently Learning
+-Data Structures & Algorithms
+-Backend Development
+-Frontend Development
+
+📫 LinkedIn: www.linkedin.com/in/Gowsya-Sk
