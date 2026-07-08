@@ -4,21 +4,21 @@
 💻 Aspiring Backend & Full Stack Developer
 
 ## Skills
--Java
--C
--HTML
--CSS
--Git
--JavaScript
--GitHub
+- Java
+- C
+- HTML
+- CSS
+- Git
+- JavaScript
+- GitHub
 
 ## Projects
--AI Hairstyle Advisor
--Java DSA Practice
+- AI Hairstyle Advisor
+- Java DSA Practice
 
 ## Currently Learning
--Data Structures & Algorithms
--Backend Development
--Frontend Development
+- Data Structures & Algorithms
+- Backend Development
+- Frontend Development
 
 📫 LinkedIn: www.linkedin.com/in/Gowsya-Sk
