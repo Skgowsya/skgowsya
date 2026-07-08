@@ -21,4 +21,4 @@
 - Backend Development
 - Frontend Development
 
-📫 LinkedIn: www.linkedin.com/in/Gowsya Sk
+📫 LinkedIn: www.linkedin.com/in/Gowsya-Sk
