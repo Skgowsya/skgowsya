@@ -11,6 +11,9 @@
 - Git
 - JavaScript
 - GitHub
+- Node.js
+- Express.js
+- vite
 
 ## Projects
 - AI Hairstyle Advisor
